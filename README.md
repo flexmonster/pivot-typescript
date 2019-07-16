@@ -5,7 +5,7 @@ Website: [flexmonster.com](https://www.flexmonster.com/)
 This repository holds two examples:
 
 - [TypeScript application with Flexmonster Pivot](https://github.com/flexmonster/pivot-typescript/tree/master/simpleProject)
-- [TypeScript + Webpack application with Flexmonster Pivot](https://github.com/flexmonster/pivot-typescript/tree/master/webpackProject)
+- [TypeScript + webpack application with Flexmonster Pivot](https://github.com/flexmonster/pivot-typescript/tree/master/webpackProject)
 
 ## Integration tutorial
 
