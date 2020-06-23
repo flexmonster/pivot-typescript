@@ -13,7 +13,6 @@
     "flexmonster": "latest"
   },
   "devDependencies": {
-    "@types/flexmonster": "latest",
     "typescript": "^3.3.4000"
   }
 }
