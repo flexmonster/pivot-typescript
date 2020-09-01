@@ -1,16 +1,13 @@
 {
-  "name": "tsproj",
+  "name": "pivot-typescript",
   "version": "1.0.0",
-  "description": "",
+  "license": "MIT",
+  "repository": "https://github.com/flexmonster/pivot-typescript",
   "main": "build/bundle.js",
   "scripts": {
     "start": "webpack-dev-server --mode development --open --hot",
-    "build": "webpack --mode development",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "webpack --mode development"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "flexmonster": "latest"
   },
@@ -20,8 +17,8 @@
     "ts-loader": "^5.3.3",
     "typescript": "^3.2.4",
     "url-loader": "^1.1.2",
-    "webpack": "^4.29.0",
-    "webpack-cli": "^3.2.1",
-    "webpack-dev-server": "^3.1.14"
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
   }
 }

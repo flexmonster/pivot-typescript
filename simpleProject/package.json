@@ -2,6 +2,7 @@
   "name": "pivot-typescript",
   "version": "1.0.0",
   "license": "MIT",
+  "repository": "https://github.com/flexmonster/pivot-typescript",
   "main": "index.js",
   "scripts": {
     "start": "tsc && http-server ./ -o"
