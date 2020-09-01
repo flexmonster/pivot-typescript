@@ -1,18 +1,16 @@
 {
-  "name": "tsproj",
+  "name": "pivot-typescript",
   "version": "1.0.0",
-  "description": "",
+  "license": "MIT",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "tsc && http-server ./ -o"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "flexmonster": "latest"
   },
   "devDependencies": {
+    "http-server": "^0.12.3",
     "typescript": "^3.3.4000"
   }
 }
