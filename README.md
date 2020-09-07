@@ -1,5 +1,5 @@
 # Flexmonster Pivot integration with TypeScript
-[![Flexmonster Pivot Table & Charts](https://www.flexmonster.com/fm_uploads/2020/06/GitHub_fm.png)](https://www.flexmonster.com/)
+[![Flexmonster Pivot Table & Charts](https://cdn.flexmonster.com/landing.png)](https://www.flexmonster.com/)
 Website: www.flexmonster.com
 
 ## Flexmonster Pivot Table & Charts
