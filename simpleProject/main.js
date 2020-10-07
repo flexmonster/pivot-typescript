@@ -3,6 +3,7 @@ var pivot = new Flexmonster({
     container: "pivot-container",
     toolbar: true,
     height: 600,
+    // licenseKey: "XXXX-XXXX-XXXX-XXXX-XXXX",
     report: {
         "dataSource": {
             "type": "json",
