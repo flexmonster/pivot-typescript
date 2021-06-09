@@ -1,6 +1,7 @@
 # Flexmonster Pivot integration with TypeScript
-[![Flexmonster Pivot Table & Charts](https://s3.amazonaws.com/flexmonster/github/fm-github-cover.png)](https://www.flexmonster.com/)
-Website: [flexmonster.com](https://www.flexmonster.com/)
+[![Flexmonster Pivot Table & Charts](https://s3.amazonaws.com/flexmonster/github/fm-github-cover.png)](https://www.flexmonster.com/?r=rm_typescript)
+
+Website: [flexmonster.com](https://www.flexmonster.com/?r=rm_typescript)
 
 This repository holds TypeScript application with Flexmonster Pivot. 
 
