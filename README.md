@@ -15,7 +15,7 @@ This repository holds the source code for a simple [TypeScript](https://www.type
 
 ## Prerequisites
 
-To run a simple application with the TypeScript pivot table, you will need Node.js and npm. [Get it here](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) if it's not already installed on your machine.
+To run a simple application with the TypeScript pivot table, you will need Node.js and npm. [Get them here](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) if they're not already installed on your machine.
 
 ## Installation
 
