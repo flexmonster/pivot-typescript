@@ -1,7 +1,7 @@
 # Flexmonster Pivot integration with TypeScript
-[![Flexmonster Pivot Table & Charts](https://cdn.flexmonster.com/landing.png)](https://www.flexmonster.com/?r=rm_typescript)
+[![Flexmonster Pivot Table & Charts](https://cdn.flexmonster.com/landing.png)](https://www.flexmonster.com/?r=gh_typescript)
 
-Website: [www.flexmonster.com](https://www.flexmonster.com/?r=rm_typescript)
+Website: [www.flexmonster.com](https://www.flexmonster.com/?r=gh_typescript)
 
 ## Flexmonster Pivot Table & Charts
 
@@ -51,4 +51,4 @@ npm start
 
 ## Usage
 
-For details on usage, refer to the [Flexmonster integration with TypeScript](https://www.flexmonster.com/doc/integration-with-typescript/?r=rm_typescript) tutorial.
+For details on usage, refer to the [Flexmonster integration with TypeScript](https://www.flexmonster.com/doc/integration-with-typescript/?r=gh_typescript) tutorial.
