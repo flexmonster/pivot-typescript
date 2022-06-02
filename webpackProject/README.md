@@ -1,5 +1,5 @@
 # Flexmonster Pivot integration with TypeScript + Webpack
-[![Flexmonster Pivot Table & Charts](https://s3.amazonaws.com/flexmonster/github/fm-github-cover.png)](https://www.flexmonster.com/?r=rm_typescript)
+[![Flexmonster Pivot Table & Charts](https://cdn.flexmonster.com/landing.png)](https://www.flexmonster.com/?r=rm_typescript)
 
 Website: [flexmonster.com](https://www.flexmonster.com/?r=rm_typescript)
 
