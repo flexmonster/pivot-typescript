@@ -24,16 +24,14 @@ module.exports = {
             },
             {
                 test: /\.(woff|woff2|eot|ttf|otf|svg)$/,
-                loader: 'url-loader',
-                options: {
-                  name: 'flexmonster-icons.[ext]',
-                  publicPath: ''
-                }
+                type: "asset/inline",
             }
         ]
     },
     devServer: {
-        contentBase: path.join(__dirname, '.'),
+        static: {
+            directory: path.join(__dirname, '.'),
+        },
         compress: true,
         port: 3002
     }
