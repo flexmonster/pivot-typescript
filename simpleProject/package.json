@@ -11,7 +11,7 @@
     "flexmonster": "latest"
   },
   "devDependencies": {
-    "http-server": "^0.12.3",
+    "http-server": "^14.1.1",
     "typescript": "^3.3.4000"
   }
 }
