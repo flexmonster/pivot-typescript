@@ -7,7 +7,9 @@ Website: [www.flexmonster.com](https://www.flexmonster.com/?r=gh_typescript)
 
 Flexmonster Pivot is a powerful JavaScript tool for interactive web reporting. It allows you to visualize and analyze data from JSON, CSV, SQL, NoSQL, Elasticsearch, and OLAP data sources quickly and conveniently. Flexmonster is designed to integrate seamlessly with any client-side framework and can be easily embedded into your application.
 
-This repository holds the source code for a simple [TypeScript](https://www.typescriptlang.org/) and Flexmonster Pivot Table & Charts project:
+This repository contains a sample [TypeScript](https://www.typescriptlang.org/) project for Flexmonster Pivot Table & Charts:
+
+Table of contents:
 
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
@@ -15,11 +17,11 @@ This repository holds the source code for a simple [TypeScript](https://www.type
 
 ## Prerequisites
 
-To run a simple application with the TypeScript pivot table, you will need Node.js and npm. [Get them here](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) if they're not already installed on your machine.
+- [Node.js](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 
 ## Installation
 
-1. Download the `.zip` archive with the sample project or clone it from GitHub with the following command:
+1. Download a `.zip` archive with the sample project or clone it from GitHub with the following command:
 
 ```bash
 git clone https://github.com/flexmonster/pivot-typescript.git && cd pivot-typescript
@@ -37,7 +39,7 @@ git clone https://github.com/flexmonster/pivot-typescript.git && cd pivot-typesc
     cd webpackProject
     ```
 
-3. Install the npm packages described in `package.json`:
+3. Install the npm dependencies described in `package.json`:
 
 ```bash
 npm install
@@ -51,4 +53,4 @@ npm start
 
 ## Usage
 
-For details on usage, refer to the [Flexmonster integration with TypeScript](https://www.flexmonster.com/doc/integration-with-typescript/?r=gh_typescript) tutorial.
+For details on usage, refer to the [Integration with TypeScript](https://www.flexmonster.com/doc/integration-with-typescript/?r=gh_typescript) guide.
