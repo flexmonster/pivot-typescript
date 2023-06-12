@@ -7,7 +7,7 @@ Website: [www.flexmonster.com](https://www.flexmonster.com/?r=gh_typescript)
 
 Flexmonster Pivot is a powerful JavaScript tool for interactive web reporting. It allows you to visualize and analyze data from JSON, CSV, SQL, NoSQL, Elasticsearch, and OLAP data sources quickly and conveniently. Flexmonster is designed to integrate seamlessly with any client-side framework and can be easily embedded into your application.
 
-This repository contains a sample [TypeScript](https://www.typescriptlang.org/) project for Flexmonster Pivot Table & Charts:
+This repository contains a sample [TypeScript](https://www.typescriptlang.org/) project for Flexmonster Pivot Table & Charts.
 
 Table of contents:
 
