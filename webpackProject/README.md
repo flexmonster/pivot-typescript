@@ -3,30 +3,42 @@
 
 Website: [flexmonster.com](https://www.flexmonster.com/?r=rm_typescript)
 
-This repository holds TypeScript + Webpack application with Flexmonster Pivot. 
+## Flexmonster Pivot Table & Charts
 
-## Step 1: Create a new project based on this sample
+Flexmonster Pivot is a powerful JavaScript tool for interactive web reporting. It allows you to visualize and analyze data from JSON, CSV, SQL, NoSQL, Elasticsearch, and OLAP data sources quickly and conveniently. Flexmonster is designed to integrate seamlessly with any client-side framework and can be easily embedded into your application.
 
-Download `.zip` archive with the sample or clone this repo into new project folder (e.g., `my-proj`).
+This repository contains a sample [TypeScript](https://www.typescriptlang.org/) + [webpack](https://webpack.js.org/) project for Flexmonster Pivot Table & Charts.
+
+Table of contents:
+
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Usage](#usage)
+
+## Prerequisites
+
+- [Node.js](https://nodejs.org/en/)
+
+## Installation
+
+1. Download a `.zip` archive with the sample project or clone it from GitHub with the following command:
+
 ```bash
-git clone https://github.com/flexmonster/pivot-typescript/  my-proj
-cd my-proj/webpackProject
+git clone https://github.com/flexmonster/pivot-typescript.git && cd pivot-typescript/webpackProject
 ```
 
-## Step 2: Install npm packages
-
-Install the npm packages described in the `package.json`:
+3. Install the npm dependencies described in `package.json`:
 
 ```bash
 npm install
 ```
 
-## Step 3: Start the project
-
-Run in the console:
+4. Run the sample project:
 
 ```bash
-npm run start
+npm start 
 ```
 
-After that, the working sample will be available if you open `http://localhost:3002/` in your browser.
+## Usage
+
+For details on usage, refer to the [Integration with TypeScript](https://www.flexmonster.com/doc/integration-with-typescript/?r=rm_typescript) guide.
