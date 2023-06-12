@@ -17,7 +17,7 @@ Table of contents:
 
 ## Prerequisites
 
-- [Node.js](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+- [Node.js](https://nodejs.org/en/)
 
 ## Installation
 
