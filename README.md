@@ -13,7 +13,7 @@ Table of contents:
 
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Usage](#usage)
+- [Related Flexmonster docs](#related-flexmonster-docs)
 
 ## Prerequisites
 
@@ -51,6 +51,6 @@ npm install
 npm start 
 ```
 
-## Usage
+## Related Flexmonster docs
 
-For details on usage, refer to the [Integration with TypeScript](https://www.flexmonster.com/doc/integration-with-typescript/?r=gh_typescript) guide.
+- [Integration with TypeScript](https://www.flexmonster.com/doc/integration-with-typescript/?r=gh_typescript) — learn how to integrate Flexmonster into a TypeScript project.
