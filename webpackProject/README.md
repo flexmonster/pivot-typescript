@@ -1,4 +1,4 @@
-# Flexmonster Pivot integration with TypeScript + Webpack
+# Flexmonster Pivot integration with TypeScript + webpack
 [![Flexmonster Pivot Table & Charts](https://cdn.flexmonster.com/landing.png)](https://www.flexmonster.com/?r=rm_typescript)
 
 Website: [flexmonster.com](https://www.flexmonster.com/?r=rm_typescript)
