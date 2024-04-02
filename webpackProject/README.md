@@ -54,8 +54,6 @@ To share your feedback or ask questions, contact our Tech team by raising a tick
 
 ## Flexmonster licensing
 
-This sample project uses [Flexmonster Blazor wrapper](https://github.com/flexmonster/flexmonster-blazor?r=sample_blz), which is released as an MIT-licensed (free and open-source) add-on to Flexmonster Pivot.
-
 To learn about Flexmonster Pivot licenses, visit the [Flexmonster licensing page](https://www.flexmonster.com/pivot-table-editions-and-pricing?r=sample_blz). 
 If you want to test our product, we provide a 30-day free trial.
 
