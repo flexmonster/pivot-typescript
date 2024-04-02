@@ -11,9 +11,12 @@ This repository contains a sample [TypeScript](https://www.typescriptlang.org/) 
 
 Table of contents:
 
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Related Flexmonster docs](#related-flexmonster-docs)
+* [Prerequisites](#prerequisites)
+* [Installation](#installation)
+* [Related Flexmonster docs](#related-flexmonster-docs)
+* [Support and feedback](#support-and-feedback)
+* [Flexmonster licensing](#flexmonster-licensing)
+* [Social media](#social-media)
 
 ## Prerequisites
 
