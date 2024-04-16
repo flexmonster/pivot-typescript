@@ -1,5 +1,5 @@
 # Flexmonster Pivot integration with TypeScript
-[![Flexmonster Pivot Table & Charts](https://cdn.flexmonster.com/landing.png)](https://www.flexmonster.com/?r=gh_typescript)
+[![Flexmonster Pivot Table & Charts](https://cdn.flexmonster.com/readmes/typescript.webp)](https://www.flexmonster.com/?r=gh_typescript)
 
 Website: [www.flexmonster.com](https://www.flexmonster.com/?r=gh_typescript)
 
