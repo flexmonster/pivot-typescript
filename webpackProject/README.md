@@ -1,11 +1,13 @@
-# Flexmonster Pivot integration with TypeScript + webpack
-[![Flexmonster Pivot Table & Charts](https://cdn.flexmonster.com/readmes/typescript_webpack.webp)](https://www.flexmonster.com/?r=rm_typescript)
+# TypeScript + webpack pivot table | Flexmonster Pivot Table & Charts sample project with TypeScript + webpack
+[![Flexmonster Pivot Table & Charts](https://cdn.flexmonster.com/readmes/typescript_webpack.webp)](https://www.flexmonster.com/?r=sample_ts_wbpck)
 
-Website: [flexmonster.com](https://www.flexmonster.com/?r=rm_typescript)
+Website: [flexmonster.com](https://www.flexmonster.com/?r=sample_ts_wbpck)
+
+[![Github Stars](https://img.shields.io/github/stars/flexmonster?style=social)](https://github.com/flexmonster) [![Twitter](https://img.shields.io/twitter/follow/Flexmonster?style=social)](https://twitter.com/Flexmonster)
 
 ## Flexmonster Pivot Table & Charts
 
-Flexmonster Pivot Table & Charts is a powerful and fully customizable JavaScript component for web reporting. It is packed with all core features for data analysis and can easily become a part of your TypeScript + webpack data visualization project. The tool supports popular frameworks like Angular, React, Vue, Blazor, and [more](https://www.flexmonster.com/doc/available-tutorials-integration?r=sample_typescript). Also, Flexmonster connects to any data source, including SQL and NoSQL databases, JSON and CSV files, OLAP cubes, and Elasticsearch. 
+Flexmonster Pivot Table & Charts is a powerful and fully customizable JavaScript component for web reporting. It is packed with all core features for data analysis and can easily become a part of your TypeScript + webpack data visualization project. The tool supports popular frameworks like Angular, React, Vue, Blazor, and [more](https://www.flexmonster.com/doc/available-tutorials-integration?r=sample_ts_wbpck). Also, Flexmonster connects to any data source, including SQL and NoSQL databases, JSON and CSV files, OLAP cubes, and Elasticsearch. 
 
 This repository contains a sample [TypeScript](https://www.typescriptlang.org/) + [webpack](https://webpack.js.org/) project for Flexmonster Pivot Table & Charts.
 
@@ -30,13 +32,13 @@ Table of contents:
 git clone https://github.com/flexmonster/pivot-typescript.git && cd pivot-typescript/webpackProject
 ```
 
-3. Install the npm dependencies described in `package.json`:
+2. Install the npm dependencies described in `package.json`:
 
 ```bash
 npm install
 ```
 
-4. Run the sample project:
+3. Run the sample project:
 
 ```bash
 npm start 
@@ -44,20 +46,20 @@ npm start
 
 ## Related Flexmonster docs
 
-- [Integration with TypeScript](https://www.flexmonster.com/doc/integration-with-typescript/?r=rm_typescript) — learn how to integrate Flexmonster into a TypeScript project.
+- [Integration with TypeScript](https://www.flexmonster.com/doc/integration-with-typescript/?r=sample_ts_wbpck) — learn how to integrate Flexmonster into a TypeScript project.
 
 ## Support and feedback
 
-In case of any issues, visit our [troubleshooting section](https://www.flexmonster.com/doc/typical-errors?r=sample_typescript). You can also search among the [resolved cases](https://www.flexmonster.com/technical-support?r=sample_typescript) for a solution to your problem.
+In case of any issues, visit our [troubleshooting section](https://www.flexmonster.com/doc/typical-errors?r=sample_ts_wbpck). You can also search among the [resolved cases](https://www.flexmonster.com/technical-support?r=sample_ts_wbpck) for a solution to your problem.
 
-To share your feedback or ask questions, contact our Tech team by raising a ticket on [Flexmonster Help Center](https://www.flexmonster.com/help-center?r=sample_typescript). You can also find a list of samples, technical specifications, and a user interface guide there.
+To share your feedback or ask questions, contact our Tech team by raising a ticket on [Flexmonster Help Center](https://www.flexmonster.com/help-center?r=sample_ts_wbpck). You can also find a list of samples, technical specifications, and a user interface guide there.
 
 ## Flexmonster licensing
 
-To learn about Flexmonster Pivot licenses, visit the [Flexmonster licensing page](https://www.flexmonster.com/pivot-table-editions-and-pricing?r=sample_typescript). 
+To learn about Flexmonster Pivot licenses, visit the [Flexmonster licensing page](https://www.flexmonster.com/pivot-table-editions-and-pricing?r=sample_ts_wbpck). 
 If you want to test our product, we provide a 30-day free trial.
 
-If you need any help with your license — fill out our [Contact form](https://www.flexmonster.com/contact-our-team?r=sample_typescript), and we will get in touch with you.
+If you need any help with your license — fill out our [Contact form](https://www.flexmonster.com/contact-our-team?r=sample_ts_wbpck), and we will get in touch with you.
 
 ## Social media
 
