@@ -1,13 +1,13 @@
 # TypeScript pivot table | Flexmonster Pivot Table & Charts sample project with TypeScript
-[![Flexmonster Pivot Table & Charts](https://cdn.flexmonster.com/readmes/typescript.webp)](https://www.flexmonster.com/?r=sample_ts)
+[![Flexmonster Pivot Table & Charts](https://cdn.flexmonster.com/readmes/typescript.webp)](https://www.flexmonster.com/?r=sample_ts_main)
 
-Website: [flexmonster.com](https://www.flexmonster.com/?r=sample_ts)
+Website: [flexmonster.com](https://www.flexmonster.com/?r=sample_ts_main)
 
 [![Github Stars](https://img.shields.io/github/stars/flexmonster?style=social)](https://github.com/flexmonster) [![Twitter](https://img.shields.io/twitter/follow/Flexmonster?style=social)](https://twitter.com/Flexmonster)
 
 ## Flexmonster Pivot Table & Charts
 
-Flexmonster Pivot Table & Charts is a powerful and fully customizable JavaScript component for web reporting. It is packed with all core features for data analysis and can easily become a part of your Vue data visualization project. The tool supports popular frameworks like Angular, React, Vue, Blazor, and [more](https://www.flexmonster.com/doc/available-tutorials-integration?r=sample_ts). Also, Flexmonster connects to any data source, including SQL and NoSQL databases, JSON and CSV files, OLAP cubes, and Elasticsearch. 
+Flexmonster Pivot Table & Charts is a powerful and fully customizable JavaScript component for web reporting. It is packed with all core features for data analysis and can easily become a part of your Vue data visualization project. The tool supports popular frameworks like Angular, React, Vue, Blazor, and [more](https://www.flexmonster.com/doc/available-tutorials-integration?r=sample_ts_main). Also, Flexmonster connects to any data source, including SQL and NoSQL databases, JSON and CSV files, OLAP cubes, and Elasticsearch. 
 
 This repository contains a sample [TypeScript](https://www.typescriptlang.org/) project for Flexmonster Pivot Table & Charts.
 
@@ -58,20 +58,20 @@ npm start
 
 ## Related Flexmonster docs
 
-- [Integration with TypeScript](https://www.flexmonster.com/doc/integration-with-typescript/?r=sample_ts) — learn how to integrate Flexmonster into a TypeScript project.
+- [Integration with TypeScript](https://www.flexmonster.com/doc/integration-with-typescript/?r=sample_ts_main) — learn how to integrate Flexmonster into a TypeScript project.
 
 ## Support and feedback
 
-In case of any issues, visit our [troubleshooting section](https://www.flexmonster.com/doc/typical-errors?r=sample_ts). You can also search among the [resolved cases](https://www.flexmonster.com/technical-support?r=sample_ts) for a solution to your problem.
+In case of any issues, visit our [troubleshooting section](https://www.flexmonster.com/doc/typical-errors?r=sample_ts_main). You can also search among the [resolved cases](https://www.flexmonster.com/technical-support?r=sample_ts_main) for a solution to your problem.
 
-To share your feedback or ask questions, contact our Tech team by raising a ticket on [Flexmonster Help Center](https://www.flexmonster.com/help-center?r=sample_ts). You can also find a list of samples, technical specifications, and a user interface guide there.
+To share your feedback or ask questions, contact our Tech team by raising a ticket on [Flexmonster Help Center](https://www.flexmonster.com/help-center?r=sample_ts_main). You can also find a list of samples, technical specifications, and a user interface guide there.
 
 ## Flexmonster licensing
 
-To learn about Flexmonster Pivot licenses, visit the [Flexmonster licensing page](https://www.flexmonster.com/pivot-table-editions-and-pricing?r=sample_ts). 
+To learn about Flexmonster Pivot licenses, visit the [Flexmonster licensing page](https://www.flexmonster.com/pivot-table-editions-and-pricing?r=sample_ts_main). 
 If you want to test our product, we provide a 30-day free trial.
 
-If you need any help with your license — fill out our [Contact form](https://www.flexmonster.com/contact-our-team?r=sample_ts), and we will get in touch with you.
+If you need any help with your license — fill out our [Contact form](https://www.flexmonster.com/contact-our-team?r=sample_ts_main), and we will get in touch with you.
 
 ## Social media
 
