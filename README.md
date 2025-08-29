@@ -65,7 +65,7 @@ Open the project in the browser to see the result.
 
 In case of any issues, visit our [Troubleshooting](https://www.flexmonster.com/doc/typical-errors?r=sample_ts_main) section. You can also search among the [resolved cases](https://www.flexmonster.com/technical-support?r=sample_ts_main) for a solution to your issue.
 
-To share your feedback or ask questions, contact our Tech team by raising a ticket on [Flexmonster Help Center](https://www.flexmonster.com/help-center?r=sample_ts_main). You can also find a list of samples, technical specifications, and a user interface guide there.
+To share your feedback or ask questions, contact our Tech team by raising a ticket on our [Help Center](https://www.flexmonster.com/help-center?r=sample_ts_main). You can also find a list of samples, technical specifications, and a user interface guide there.
 
 ## Flexmonster licensing
 
