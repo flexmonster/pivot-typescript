@@ -9,7 +9,7 @@ Website: [flexmonster.com](https://www.flexmonster.com/?r=sample_ts_main)
 
 Flexmonster Pivot Table & Charts is a powerful and fully customizable JavaScript component for web reporting. It is packed with all core features for data analysis and can easily become a part of your TypeScript data visualization project. The tool supports popular frameworks like React, Vue, Angular, Blazor, and [more](https://www.flexmonster.com/doc/available-tutorials-integration?r=sample_ts_main). Also, Flexmonster connects to [any data source](https://www.flexmonster.com/doc/supported-data-sources?r=sample_ts_main), including SQL and NoSQL databases, JSON and CSV files, OLAP cubes, and Elasticsearch.
 
-This repository contains a sample [TypeScript](https://www.typescriptlang.org/) project for Flexmonster Pivot Table & Charts.
+This repository contains sample [TypeScript](https://www.typescriptlang.org/) projects for Flexmonster Pivot Table & Charts.
 
 Table of contents:
 
@@ -69,10 +69,11 @@ To share your feedback or ask questions, contact our Tech team by raising a tick
 
 ## Flexmonster licensing
 
-To learn about Flexmonster Pivot licenses, visit the [Flexmonster licensing page](https://www.flexmonster.com/pivot-table-editions-and-pricing?r=sample_ts_main). 
-If you want to test our product, we provide a 30-day free trial.
+These sample projects are released under the MIT license (free and open-source). [Flexmonster Pivot](https://www.flexmonster.com/?r=sample_ts_main) is governed by the Flexmonster Software License Agreement: [https://www.flexmonster.com/software-license-agreement/](https://www.flexmonster.com/software-license-agreement/?r=sample_ts_main).
 
-If you need any help with your license, fill out our [Contact form](https://www.flexmonster.com/contact-our-team?r=sample_ts_main), and we will get in touch with you.
+Flexmonster offers a 30-day free trial so you can evaluate our product. Pricing for commercial license models can be found on the [Flexmonster pricing page](https://www.flexmonster.com/pivot-table-editions-and-pricing/?r=sample_ts_main).
+
+If you need any help with your license, fill out our [Contact form](https://www.flexmonster.com/contact-our-team/?r=sample_ts_main), and we will get in touch with you.
 
 ## Social media
 

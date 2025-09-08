@@ -57,10 +57,11 @@ To share your feedback or ask questions, contact our Tech team by raising a tick
 
 ## Flexmonster licensing
 
-To learn about Flexmonster Pivot licenses, visit the [Flexmonster licensing page](https://www.flexmonster.com/pivot-table-editions-and-pricing?r=sample_ts_wbpck). 
-If you want to test our product, we provide a 30-day free trial.
+This sample project is released under the MIT license (free and open-source). [Flexmonster Pivot](https://www.flexmonster.com/?r=sample_ts_wbpck) is governed by the Flexmonster Software License Agreement: [https://www.flexmonster.com/software-license-agreement/](https://www.flexmonster.com/software-license-agreement/?r=sample_ts_wbpck).
 
-If you need any help with your license, fill out our [Contact form](https://www.flexmonster.com/contact-our-team?r=sample_ts_wbpck), and we will get in touch with you.
+Flexmonster offers a 30-day free trial so you can evaluate our product. Pricing for commercial license models can be found on the [Flexmonster pricing page](https://www.flexmonster.com/pivot-table-editions-and-pricing/?r=sample_ts_wbpck).
+
+If you need any help with your license, fill out our [Contact form](https://www.flexmonster.com/contact-our-team/?r=sample_ts_wbpck), and we will get in touch with you.
 
 ## Social media
 
